@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int n,fd,ld;
+    int n,fd,ld,h;
     scanf("%d",&n);
     fd=n/1000;
     ld=n%10;
