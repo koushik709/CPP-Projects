@@ -31,3 +31,10 @@ int main(){
 
     return 0;
 }
+
+//formula 2
+
+int main(){
+    
+    return 0;
+}
